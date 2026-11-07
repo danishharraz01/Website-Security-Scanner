@@ -1,5 +1,5 @@
 {
-  "name": "website-security-scanner",
+  "name": "sitesentinel",
   "version": "0.1.0",
   "private": true,
   "scripts": {

@@ -1,4 +1,13 @@
-# Website Security Scanner
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="public/logo.png">
+    <img src="public/logo-light.png" alt="SiteSentinel" width="420">
+  </picture>
+</p>
+
+# SiteSentinel
+
+**Know Your Website. Secure Your Digital Presence.**
 
 A bilingual (Bahasa Melayu / English) web app that checks a website's HTTP security configuration and gives it a grade from **A to F** with a score out of 100.
 
